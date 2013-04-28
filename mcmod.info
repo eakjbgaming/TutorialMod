@@ -1,0 +1,17 @@
+[
+{
+  "modid": "eakjbgaming_TutorialMod",
+  "name": "Tutorial Mod",
+  "description": "A simple mod to demonstrate the basics of modding",
+  "version": "0.1",
+  "mcversion": "1.5.1",
+  "logoFile": "/mcp.png",
+  "url": "http://dev.eakjb.com/",
+  "updateUrl": "",
+  "authors": ["eakjb", "eakjbgaming"],
+  "credits": "Made by eakjbgaming to demonstrate modding.",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
